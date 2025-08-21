@@ -2,7 +2,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00C2FF&width=600&lines=Hi%2C+I'm+Muhammad+Nouman+-+Frontend+Developer;Currently+mastering+HTML;Focused+and+passionate+about+clean+efficient+code" alt="typing-header"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00C2FF&width=700&lines=Hi%2C+I'm+Muhammad+Nouman+-+Frontend+Developer;Currently+mastering+HTML;Focused+and+passionate+about+clean+efficient+code" alt="typing-header"/>
     </td>
   </tr>
 </table>
@@ -44,11 +44,11 @@
 
 | 🔥 Streak | 📈 Stats |
 |-----------|-----------|
-| <img src="https://streak-stats.demolab.com?user=muhammadnoumanalicoding&theme=tokyonight&border_radius=10" height="130"/> | <img src="https://github-readme-stats.vercel.app/api?username=muhammadnoumanalicoding&show_icons=true&theme=tokyonight" height="130"/> |
+| <img src="https://streak-stats.demolab.com?user=muhammadnoumanalicoding&theme=tokyonight&border_radius=10" height="220"/> | <img src="https://github-readme-stats.vercel.app/api?username=muhammadnoumanalicoding&show_icons=true&theme=tokyonight" height="220"/> |
 
 | 💻 Top Languages | 📜 Profile Summary |
 |------------------|--------------------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnoumanalicoding&layout=compact&theme=tokyonight" height="130"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadnoumanalicoding&theme=tokyonight" height="130"/> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnoumanalicoding&layout=compact&theme=tokyonight" height="220"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadnoumanalicoding&theme=tokyonight" height="220"/> |
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadnoumanalicoding&theme=dracula&area=true&hide_border=true" width="100%"/>
