@@ -1,12 +1,11 @@
-<!-- Centered Typing Header using table -->
+<!-- Profile Header with Typing Animation -->
 <table align="center">
   <tr>
     <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00C2FF&width=760&lines=Hi%2C+I'm+Muhammad+Nouman+-+Frontend+Developer;Currently+mastering+HTML;Focused+and+passionate+about+clean+efficient+code" alt="typing-header"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00C2FF&width=600&lines=Hi%2C+I'm+Muhammad+Nouman+-+Frontend+Developer;Currently+mastering+HTML;Focused+and+passionate+about+clean+efficient+code" alt="typing-header"/>
     </td>
   </tr>
 </table>
-
 
 <h3 align="center">Frontend Developer from Abbottabad, PK</h3>
 
@@ -23,6 +22,7 @@
 🔹 Passionate about building **responsive & interactive web apps**  
 🔹 Skilled in **HTML, CSS, Git, GitHub, Netlify, Vercel, VSCode, LinkedIn**  
 🔹 Currently focused on **HTML Mastery** to refine design precision  
+
 ---
 
 ## 🚀 Skills & Tools  
@@ -44,11 +44,11 @@
 
 | 🔥 Streak | 📈 Stats |
 |-----------|-----------|
-| <img src="https://streak-stats.demolab.com?user=muhammadnoumanalicoding&theme=tokyonight&border_radius=10" height="180"/> | <img src="https://github-readme-stats.vercel.app/api?username=muhammadnoumanalicoding&show_icons=true&theme=tokyonight" height="180"/> |
+| <img src="https://streak-stats.demolab.com?user=muhammadnoumanalicoding&theme=tokyonight&border_radius=10" height="130"/> | <img src="https://github-readme-stats.vercel.app/api?username=muhammadnoumanalicoding&show_icons=true&theme=tokyonight" height="130"/> |
 
 | 💻 Top Languages | 📜 Profile Summary |
 |------------------|--------------------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnoumanalicoding&layout=compact&theme=tokyonight" height="180"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadnoumanalicoding&theme=tokyonight" height="180"/> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnoumanalicoding&layout=compact&theme=tokyonight" height="130"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadnoumanalicoding&theme=tokyonight" height="130"/> |
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadnoumanalicoding&theme=dracula&area=true&hide_border=true" width="100%"/>
@@ -63,7 +63,8 @@
 ## 📚 Currently Learning  
 
 - **HTML Deep Dive** – Writing semantic, accessible & precise code
-- 
+- **Advanced CSS** – Modern layouts with Flexbox & Grid
+
 ---
 
 ## 📬 Contact  
