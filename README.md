@@ -83,4 +83,4 @@
 
 ---
 
-<h3 align="center">✨ Thanks for visiting! Keep coding & stay awesome 🚀</h3>
+<h3 align="center">✨ Thanks for visitings! Keep coding & stay awesome 🚀</h3>
