@@ -19,7 +19,7 @@
 
 ## 💫 About Me  
 
-🔹 Passionate about building **responsive & interactive web apps**  
+🔹 Passionate about building **responsive & interactive web**  
 🔹 Skilled in **HTML, CSS, Git, GitHub, Netlify, Vercel, VSCode, LinkedIn**  
 🔹 Currently focused on **HTML Mastery** to refine design precision  
 
