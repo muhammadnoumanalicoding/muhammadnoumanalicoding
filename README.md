@@ -15,13 +15,6 @@
   <img src="https://img.shields.io/badge/Learning-HTML-orange?style=flat-square&logo=html5" />
 </p>
 
----
-
-## 💫 About Me  
-
-🔹 Passionate about building **responsive & interactive web**  
-🔹 Skilled in **HTML, CSS, Git, GitHub, Netlify, Vercel, VSCode, LinkedIn**  
-🔹 Currently focused on **HTML Mastery** to refine design precision  
 
 ---
 
