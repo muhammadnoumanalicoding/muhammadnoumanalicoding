@@ -7,7 +7,7 @@
   </tr>
 </table>
 
-<h3 align="center">Frontend Developer from Abbottabad, PK</h3>
+<h3 align="center">Frontend Developer from Pakistan, PK</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=flat-square&logo=visualstudiocode&logoColor=white" />
