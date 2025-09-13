@@ -1,7 +1,7 @@
 # Muhammad Nouman
 
 **Aspiring Software Engineer | Frontend Developer**  
-📍 Multan, Pakistan  
+📍 Islāmābād, Pakistan  
 
 ---
 
@@ -14,7 +14,7 @@
 ---
 
 ## 🛠 Skills in Progress
-- **Languages:** C#, HTML, CSS  
+- **Languages:** HTML, CSS
 - **Frontend Tools:** (actively learning)  
 
 ---
