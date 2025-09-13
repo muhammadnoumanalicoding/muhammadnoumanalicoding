@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **C# (Microsoft)**, **HTML**, and **CSS**  
+- 🌱 Currently learning **HTML**, and **CSS**  
 - 💻 Interested in building clean and user-friendly web applications  
 - 🚀 Started my coding journey on GitHub in **August 2025**  
 - 🎯 Focused on learning step by step and growing as a developer  
